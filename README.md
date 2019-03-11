@@ -9,6 +9,6 @@
 <h2>What I did</h2>
 <p>
 	I used my creative liscense to change some of the icons and content of the site. Some of the original colors and content i kept. I did not make it responsive. Display 'grid' and 'flex' were both used.
-	<img src="static2ScreenShot1">
-	<img src="static2ScreenShot2">
+	<img src="static2ScreenShot1.png">
+	<img src="static2ScreenShot2.png">
 </p>
